@@ -1,6 +1,6 @@
 <h1>Bienvenidos al Juego del Amigo Secreto <h1>
 
-<p1>✨ Características
+<p1> Características
 
 - Agrega nombres a la lista de participantes.
 
@@ -8,7 +8,7 @@
 
 - Mensajes dinámicos para mejorar la experiencia del usuario.
 
-🚀 Cómo Usarlo
+ Cómo Usarlo
 
 - Ingresa nombres: Escribe los nombres de los participantes y agrégales a la lista.
 
@@ -16,7 +16,7 @@
 
 - Comparte el resultado: Puedes mostrar los resultados en pantalla o adaptarlo para enviar los nombres por otro medio.
 
-🛠 Tecnologías Utilizadas
+ Tecnologías Utilizadas
 
 - HTML: Estructura básica del sitio.
 
@@ -24,7 +24,7 @@
 
 - JavaScript: Lógica para la selección aleatoria y manipulación del DOM.
 
-📌 Personalización
+ Personalización
 
 Si deseas modificar el juego, puedes:
 
@@ -35,5 +35,5 @@ Si deseas modificar el juego, puedes:
 - Agregar funcionalidades como el envío de notificaciones o compartir los resultados.
 
 
-¡Esperamos que disfrutes usando esta herramienta! 🎉<p1>
+¡Esperamos que disfrutes usando esta herramienta! <p1>
 
